@@ -5,4 +5,4 @@ while S != 0:
     if S % 10 > maxNamber:
         maxNamber = S % 10
     S = S // 10
-print(f"Максимальная цифра в вашем числе: {maxNamber}")
+print(f"Максимальная цифра в вашем01264 числе: {maxNamber}")
