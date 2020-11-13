@@ -1,2 +1,5 @@
-my_list = {1, 2, 3}
-print(sum(my_list))
+def int_func(text):
+    m_str = text
+    print(m_str.title())
+int_func("вова витя сережа")
+
